@@ -1,5 +1,5 @@
 @font-face {
-    font-family: viking;;
+    font-family: Norse-Bold;
     src: url(Norse-Bold.otf);
 }
 html,body{
@@ -13,7 +13,7 @@ body{
     box-sizing: border-box;
 }
 .left{
-    font-family: viking;
+    font-family: Norse-Bold;
     height: 100vh;
     width: 40%;
     background-size: cover;
